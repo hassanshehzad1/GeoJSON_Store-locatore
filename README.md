@@ -1,0 +1,1 @@
+# GeoJSON_Store-locatore
